@@ -1,0 +1,113 @@
+<html>
+    <head><title>EDU_EVOLVE(FUTURE OF LEARNING)</title></head>
+    <body bgcolor="black" text="white" background="https://i.pinimg.com/564x/6a/21/26/6a2126f84f385b4b619279146fffeb88.jpg">
+
+        <img src="C:\Users\Nishchith\Downloads\PNG.png" width="3000" height="300">
+        <hr>
+        <h6>ONLINE EDUCATIONAL PLATFORM</h6>
+        <br><br>
+        <input type="text" placeholder="search" width="200">
+        <a href="https://www.apnacollege.in/">></a>
+        <BR><BR><br><br>
+        <fieldset>
+            <legend>COURSES OFFERED</legend>
+            <b>BTECH:</b>
+                <select>
+                    <option>PROGRAMMING IN C</option>
+                    <option>WEB DESIGNING</option>
+                    <option>DSCA</option>
+                    </select>
+                    </fieldset>
+
+                    <fieldset>
+
+                    <h1>PROGRAMMING , SCRIPTING & CODING </h1>
+                    <br><br>
+                    <fieldset>
+                        <legend>VIDEO EXAMPLES</legend>
+
+                    <table border="2">
+                        <tr>
+                    <td><video controls src="C:\Users\Nishchith\OneDrive\文档\html proj 1.mp4" width="300">
+                        <source src="C:\Users\Nishchith\OneDrive\文档\html proj 1.mp4">
+                    </video></td>
+                    <th><p>C Language Full Tutorial !! This video is for anyone who wants to learn C language or wants to revise things about C language in very quick time.
+Install C in Windows with GCC and VS Code:     • Install C/C++ in Windows //. C Introduction. Keywords & Identifier. Variables & Constants. C Data Types. C …
+C Flow Control. C if... else. C for Loop. C while Loop. C break and continue. C …
+C Functions. C Programming Functions. C User-defined Functions. C Function …
+C Programming Arrays. C Multi-dimensional Arrays. C Arrays & Function. DATA TYPES & COMPILERS .....<br>
+<a src="https://youtu.be/AN3UkzE3HMg?si=7QEhb3tPAqbgF3SM" ></a>
+                    </p></th>
+                    </tr>
+                    </table>
+                    </fieldset>
+
+
+                    <br><br><br>
+
+                 <fieldset>
+                 <b>BBA:</b>
+            <select>
+                <option>MANAGEMENT</option>
+                <option>ACCOUNTING</option>
+                <option>STATISTICS</option>
+                </select>      
+                </fieldset>
+                <br><br>
+                <h1>STATISTICS,MANAGEMENT & ACCOUNTING</h1>
+                <fieldset>
+                    <legend>VIDEO EXAMPLES</legend>
+
+
+                <table border="2">
+                    <th><video controls muted src="C:\Users\Nishchith\Videos\html video proj 2.mp4" width="300">
+                        <source src ="C:\Users\Nishchith\Videos\html video proj 2.mp4">
+                        </video>
+                    </th>
+                    <th>
+                        <p>
+                            What is Statistics? | Types of Statistics | Descriptive & Inferential Statistics | Acadgild
+https://acadgild.com/big-data/data-sc...
+
+Hello and Welcome to Data Science tutorial powered by Acadgild. In this statistics tutorial video, you will be able to learn,
+
+• What is Statistics?
+• Why Statistics?
+• The Types of Statistics
+• What is Descriptive Statistics?
+• What is inferential Statistics? 
+
+Statistics Definition:
+Statistics is the science of collecting, organizing, presenting, analyzing and interpreting data to help in making more effective decisions.
+ Statistical Analysis is implemented to manipulate, summarize and investigate data so that useful decision-making information results are obtained.
+                        </p>
+                    </th>
+                    </table>
+                    </fieldset>
+                    <br><br><br><br>
+
+                <fieldset>
+                    <legend>COURSE DESCRIPTION</legend>
+                    <h3>
+                    <b>BTECH:</b>
+                    <br>
+                    A Bachelor of Technology (Latin Baccalaureus Technologiae;
+                    B.Tech.) is an undergraduate academic degree in the field of engineering and technology conferred after the completion of a four-to-five-year program of studies at an accredited university or accredited higher education institution,
+                     such as a college or university in India and other countries. In India, this is a four-year undergraduate degree awarded by few universities and colleges which is equivalent to four-year
+
+                 <br><br>
+                 <b>BBA:</b>
+                 <br>
+                 The Bachelor of Business Administration (BBA) is a 3-year undergraduate degree program that focuses on providing students with skills, knowledge, and training in professional management and entrepreneurial abilities.
+                  The program is designed to equip students with a strong foundation in business courses and advanced courses for specific concentrations.   
+                </h3>
+                </fieldset>
+                <hr> 
+                <br>   
+
+                <footer>
+                    <input type="email" value="eduevole@gmail.com" readonly>
+                    <a href="eduevolve@gmail.com">MAIL</a>
+                </footer>
+    </body>
+</html>
